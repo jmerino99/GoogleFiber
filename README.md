@@ -17,7 +17,7 @@ Primary Requirements:
   
 ✔️ 	A chart or table exploring repeat calls by market and problem type
 
-Compliance and Privacy:
+🔐 Compliance and Privacy:
 
 In order to anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents
 
