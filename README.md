@@ -1,4 +1,5 @@
-Imagen
+![Google-Fiber](https://github.com/jmerino99/Portfolio/assets/137907629/72123376-d960-4040-8bd5-13235d1c8104)
+
 
 This project was part of the Google Business Intelligence Specialization
 Google Fiber provides people and businesses with fiber optic internet,  This project seeks to Reduce Call volume by increasing customer satisfaction and improving operational optimization
