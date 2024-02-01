@@ -19,6 +19,6 @@ Primary Requirements:
   
 ✔️ 	A chart or table exploring repeat calls by market and problem type
 
-Data was uploaded and JOINED using BigQuery 
+Data was uploaded and JOINED using BigQuery ➡️
 
-Final dashboard was made in Tableau
+Final dashboard was made in Tableau ➡️
