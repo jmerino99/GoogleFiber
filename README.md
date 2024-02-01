@@ -19,6 +19,8 @@ Primary Requirements:
   
 ✔️ 	A chart or table exploring repeat calls by market and problem type
 
-Data was uploaded and JOINED using BigQuery ➡️
+Data was uploaded and JOINED using BigQuery ➡️ 
+https://github.com/jmerino99/GoogleFiber/blob/main/googlefiber.sql
 
-Final dashboard was made in Tableau ➡️
+Final dashboard was made in Tableau ➡️ 
+https://public.tableau.com/views/Fiber_JC/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link
