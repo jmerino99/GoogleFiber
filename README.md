@@ -19,7 +19,7 @@ Primary Requirements:
 
 🔐 Compliance and Privacy:
 
-In order to anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents
+In order to anonymize and fictionalize the datasets, the columns market_1, market_2, and market_3 were created to indicate three different city service areas the data represents
 
 
 Data was uploaded and JOINED using BigQuery ➡️ 
